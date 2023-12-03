@@ -1,4 +1,4 @@
-name: CI
+name: Prebuild Dev Container Image
 
 on:
   workflow_call: {}
